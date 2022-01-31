@@ -1,0 +1,68 @@
+{
+    "radius": 50,
+    
+    "orbits": [
+               {
+                "width": 15,
+               "rotation": 0.125,
+               "speed": 0.9849,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 10
+                            }
+                            ]
+               },
+               {
+               "rotation": -0.075,
+               "speed": {
+                    "values": [-2.5, 0],
+                    "turns": [0.375, 0.4]
+               },
+               
+               "segments": [
+                            {
+                            "color": 1,
+                            "size": 0.15,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.15,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.15,
+                            "rotation": 0.5
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.15,
+                            "rotation": 0.75
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1.25,
+    "bullets": [
+               1, 0, 3, 8, 7, 10, 1, 1, 1
+                ]
+}

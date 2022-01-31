@@ -1,0 +1,59 @@
+{
+    "radius": 55,
+    
+    "orbits": [
+               {
+               "rotation": 0.4,
+               "speed": [0.2, 0.7],
+               
+               "segments": [
+                            {
+                            "color": 5,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.10
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 0.2,
+    "bullets": [
+                12, 5, 12, 5, 12, 5, 12, 5, 12, 5
+                ],
+    "type": "rings"
+}

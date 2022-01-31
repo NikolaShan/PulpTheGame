@@ -1,0 +1,125 @@
+{
+    "radius": 60,
+
+    "orbits": [
+               {
+               "rotation": 0.6,
+               "speed": {
+               "values": [0.5, 0.7],
+               "durations": [2, 2]
+               },
+               
+               "segments": [
+                            {
+                            "color": 12,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 11,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 11,
+                            "size": 0.1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.4,
+               "speed": {
+               "values": [-0.5, -0.7],
+               "durations": [3, 3]
+               },
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 13,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 13,
+                            "size": 0.10
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.10
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.2,
+               "speed": {
+               "values": [-0.3, 0.5],
+               "durations": [3, 3]
+               },
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.35
+                            },
+                            {
+                            "color": 13,
+                            "size": 0.35
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.30
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                0, 13, 3, 0, 14, 14, 12, 2, 7, 9, 11, 12, 2, 7, 9, 11, 13, 0, 4, 13, 3
+                ]
+}

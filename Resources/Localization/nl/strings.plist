@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Game</key>
+	<dict>
+		<key>StartLevelHint</key>
+		<string>TIK OM TE SCHIETEN</string>
+		<key>TimeoutFormat</key>
+		<string>{:.0f} sec.</string>
+		<key>RingsControlHint</key>
+		<string>TIK/HOUD INGEDRUKT OM DE RING TE LATEN DRAAIEN</string>
+	</dict>
+	<key>ExitConfirmationDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Afsluiten?</string>
+		<key>Message</key>
+		<string>Weet je zeker dat je wilt afsluiten?</string>
+		<key>ButtonExitGame</key>
+		<string>JA</string>
+		<key>ButtonResumeGame</key>
+		<string>NEE</string>
+	</dict>
+	<key>PauseDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>PAUZE</string>
+		<key>MenuButton</key>
+		<string>Menu</string>
+		<key>ResumeButton</key>
+		<string>Hervatten</string>
+	</dict>
+	<key>AppTurbo</key>
+	<dict>
+		<key>Message</key>
+		<string>Dankzij AppTurbo!</string>
+		<key>Title</key>
+		<string>Advertenties uitgeschakeld</string>
+		<key>Button</key>
+		<string>Oké</string>
+	</dict>
+	<key>Menu</key>
+	<dict>
+		<key>YourScore</key>
+		<string>JE
+SCORE</string>
+		<key>BestScore</key>
+		<string>Beste score: {}</string>
+		<key>Endless</key>
+		<string>EINDELOOS</string>
+		<key>Levels</key>
+		<string>LEVELS</string>
+		<key>Skip</key>
+		<string>OVERSLAAN</string>
+		<key>LevelNumber</key>
+		<string>LEVEL {}</string>
+		<key>Retry</key>
+		<string>OPNIEUW</string>
+		<key>Share</key>
+		<string>DELEN</string>
+		<key>Next</key>
+		<string>VOLGENDE</string>
+		<key>LevelFailed</key>
+		<string>LEVEL
+MISLUKT</string>
+		<key>LevelSuccess</key>
+		<string>LEVEL
+VOLTOOID</string>
+		<key>Rate</key>
+		<string>BEOORDELEN</string>
+		<key>GameCompleted</key>
+		<string>SPEL
+VOLTOOID</string>
+	</dict>
+	<key>SettingsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Instellingen</string>
+		<key>ColorblindOption</key>
+		<string>Kleurenblind-modus</string>
+		<key>MusicOption</key>
+		<string>Muziek</string>
+		<key>OkayButton</key>
+		<string>Oké</string>
+		<key>SoundsOption</key>
+		<string>Geluiden</string>
+		<key>NightModeOption</key>
+		<string>Nachtmodus</string>
+	</dict>
+	<key>Share</key>
+	<dict>
+		<key>DirectMessageScore</key>
+		<string>OMG! Ik heb {} punten gescoord in de eindeloze modus in #Dulp! Dat lukt je nooit!</string>
+		<key>SimpleShareMessage</key>
+		<string>WOW! Ik heb net level {} in #Dulp bereikt! Kun jij ook zo ver komen? @NexxStudio</string>
+		<key>DirectTitle</key>
+		<string>Dulp</string>
+		<key>DirectMessage</key>
+		<string>WOW! Ik heb net level {} in #Dulp bereikt! Kun jij ook zo ver komen? @NexxStudio</string>
+	</dict>
+	<key>Hints</key>
+	<dict>
+		<key>FollowingColors</key>
+		<string>Probeer vooruit te denken en plan je ballen!</string>
+		<key>SectionsCanFade</key>
+		<string>Secties kunnen vervagen!</string>
+		<key>FlySpeedChange</key>
+		<string>Balsnelheid kan verschillen!</string>
+		<key>TimeCanExpire</key>
+		<string>Aftelklok!</string>
+		<key>BeAttentive</key>
+		<string>Concentreer je!</string>
+		<key>Dulp</key>
+		<string>Dulp!</string>
+		<key>SnipeThemOut</key>
+		<string>Wees nauwkeurig!</string>
+		<key>DirectionChange</key>
+		<string>Direction can change!</string>
+		<key>RadiusChange</key>
+		<string>Ringformaat kan verschillen!</string>
+		<key>DoubleOrbit</key>
+		<string>Dubbele ringen!</string>
+		<key>TripleOrbit</key>
+		<string>Drie ringen!</string>
+		<key>FourthOrbit</key>
+		<string>Vierde ring!</string>
+		<key>SpeedChange</key>
+		<string>Snelheid kan verschillen!</string>
+		<key>SpeedChangeByTap</key>
+		<string>Snelheid wijzigt na tikken!</string>
+		<key>DifferentBulletsSpeed</key>
+		<string>Balsnelheid wijzigt na tikken!</string>
+		<key>HoldIncLiftDec</key>
+		<string>Tik/houd ingedrukt om de ring te laten draaien</string>
+		<key>WaitForTheRightMoment</key>
+		<string>Wacht op het juiste moment!</string>
+	</dict>
+	<key>LocalNotification</key>
+	<dict>
+		<key>Message</key>
+		<string>Zit je vast in een level? Swipe nu om het over te slaan!</string>
+		<key>Action</key>
+		<string>Spelen</string>
+		<key>OpenMessage</key>
+		<string>Level {} overgeslagen!</string>
+	</dict>
+	<key>CrossPromoDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>New game by PlanemoStd</string>
+		<key>ButtonTitle</key>
+		<string>Play Now</string>
+	</dict>
+	<key>RateDialog</key>
+	<dict>
+		<key>ButtonTitle</key>
+		<string>Beoordeel Dulp</string>
+		<key>Title</key>
+		<string>Beoordeel ons</string>
+		<key>Message</key>
+		<string>Vind je Dulp leuk? Geef ons dan een beoordeling in de App Store. Met jouw steun kunnen we meer gratis updates uitbrengen!</string>
+		<key>RemindLater</key>
+		<string>Vraag het later nog eens</string>
+		<key>Decline</key>
+		<string>Nee, bedankt</string>
+	</dict>
+	<key>Levels</key>
+	<dict>
+		<key>Title</key>
+		<string>LEVELS</string>
+		<key>OutOf</key>
+		<string>{} van {}</string>
+	</dict>
+	<key>RemoveAdsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Reclame verwijderen?</string>
+		<key>Message</key>
+		<string>Verwijder alle advertenties en pop-ups uit het spel en verbeter je prestaties!</string>
+		<key>Buy</key>
+		<string>Advertenties verwijderen voor {}</string>
+		<key>Restore</key>
+		<string>Herstellen</string>
+		<key>Cancel</key>
+		<string>Annuleren</string>
+	</dict>
+	<key>IA</key>
+	<dict>
+		<key>Loading</key>
+		<string>Laden...</string>
+		<key>Error</key>
+		<string>Kan transactie niet verwerken. Probeer het later opnieuw.</string>
+		<key>PurchaseSucceed</key>
+		<string>Je hebt {} gekocht.</string>
+		<key>RestoreSucceed</key>
+		<string>Herstellen voltooid.</string>
+		<key>NothingToRestore</key>
+		<string>Niets te herstellen</string>
+		<key>Restoring</key>
+		<string>Wordt hersteld...</string>
+	</dict>
+	<key>SkipLevelDialog</key>
+	<dict>
+		<key>Cancel</key>
+		<string>Annuleren</string>
+		<key>Title</key>
+		<string>Level overslaan?</string>
+		<key>MessageOptions</key>
+		<string>Kies een van onderstaande opties om het level over te slaan.</string>
+		<key>MessageFreeSkips</key>
+		<string>Wil je dit level overslaan?</string>
+		<key>Skip</key>
+		<string>Overslaan</string>
+		<key>BuySkips</key>
+		<string>{}x overslaan voor {}</string>
+		<key>MessageSkipAds</key>
+		<string>Level te moeilijk?
+Bekijk advertenties om het over te slaan!</string>
+		<key>WatchAds</key>
+		<string>Bekijk advertenties</string>
+		<key>TryOurGame</key>
+		<string>Try our game</string>
+	</dict>
+	<key>SecondChanceDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Nog een keer?</string>
+		<key>AcceptButton</key>
+		<string>JA</string>
+		<key>DeclineButton</key>
+		<string>NEE</string>
+	</dict>
+	<key>Error</key>
+	<string>Onbekende fout. Probeer het later opnieuw</string>
+</dict>
+</plist>

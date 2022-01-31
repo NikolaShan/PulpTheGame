@@ -1,0 +1,117 @@
+{
+    "radius": 45,
+    
+    "orbits": [
+               {
+               "rotation": 0,
+               "speed": [0.3, 0.1],
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.20
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.20
+                            }
+                            ],
+               "fade": {
+               "values": [1, 0],
+               "durations": [0.5, 0.5]
+               }
+               },
+               {
+               "width": 13,
+               "rotation": 0,
+               "speed": [-0.05, -0.3],
+               
+               "segments": [
+                            {
+                            "color": 3,
+                            "size": 0.12,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.12,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.12,
+                            "rotation": 0.5
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.12,
+                            "rotation": 0.75
+                            }
+                            ]
+               
+               },
+               {
+               "rotation": 0.25,
+               "speed": 0.35,
+               
+               "segments": [
+                            {
+                            "color": 6,
+                            "size": 0.083,
+                            "rotation": 0.083
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.083,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.083,
+                            "rotation": 0.413
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.083,
+                            "rotation": 0.583
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.083,
+                            "rotation": 0.75
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.083,
+                            "rotation": 0.916
+                            }
+                            ],
+               "fade": {
+               "values": [1, 0],
+               "durations": [0.5, 0.5]
+               }
+               }
+               ],
+    
+    "bullets_speed": 0.75,
+    "bullets": [
+                6, 2, 8, 3, 3, 7, 1, 8, 3, 9, 14, 14, 0, 0, 1, 1
+                ],
+    "gravity": 5
+}

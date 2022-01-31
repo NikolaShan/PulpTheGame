@@ -1,0 +1,51 @@
+{
+    "radius": 60,
+    "hint": "SpeedChangeByTap",
+
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": [-0.4, -0.7],
+               
+               "segments": [
+                            {
+                            "color": 11,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 13,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.08
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.12
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                13, 9, 11, 5, 4, 6, 7, 10
+                ]
+}

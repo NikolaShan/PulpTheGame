@@ -1,0 +1,111 @@
+{
+    "radius": 45,
+
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": -0.6,
+               
+               "segments": [
+                            {
+                            "color": 14,
+                            "size": 0.3
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.3
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.2,
+               "speed": 0.6,
+               "segments": [
+               
+               {
+               "color": 3,
+               "size": 0.083,
+               "rotation": 0.083
+               },
+               {
+               "color": 12,
+               "size": 0.083,
+               "rotation": 0.166
+               },
+               {
+               "color": 5,
+               "size": 0.083,
+               "rotation": 0.249
+               },
+               {
+               "color": 2,
+               "size": 0.083,
+               "rotation": 0.332
+               },
+               {
+               "color": 1,
+               "size": 0.083,
+               "rotation": 0.581
+               },
+               {
+               "color": 13,
+               "size": 0.083,
+               "rotation": 0.664
+               },
+               {
+               "color": 7,
+               "size": 0.083,
+               "rotation": 0.747
+               },
+               {
+               "color": 8,
+               "size": 0.083,
+               "rotation": 0.830
+               }
+               ]
+             },
+             {
+               "rotation": 0.6,
+               "speed": 0.5,
+    
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.20,
+                            "rotation": 0.0
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.20,
+                            "rotation": 0.3
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.20,
+                            "size": 0.6
+                            }
+                            ],
+                "fade": {
+                "values": [1, 0],
+                "durations": [0.25, 1.0]
+               }
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                0, 5, 3, 5, 12, 7, 8, 2, 1, 13, 14, 0, 4, 8, 6, 1
+                ]
+}

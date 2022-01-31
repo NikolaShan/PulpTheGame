@@ -1,0 +1,161 @@
+{
+    "radius": 40,
+    
+    "orbits": [
+               {
+                "width": 13,
+               "rotation": 0,
+               "speed": 0.5,
+               
+               "segments": [
+                            {
+                            "color": 8,
+                            "size": 0.25,
+                            "rotation": 0.875
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.25,
+                            "rotation": 0.375
+                            }
+                            ]
+               },
+               {
+               "rotation": 0,
+               "speed": 0.35,
+               
+               "segments": [
+                            {
+                            "color": 5,
+                            "size": 0.125,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.125,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.125,
+                            "rotation": 0.5
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.125,
+                            "rotation": 0.75
+                            }
+                            ]
+             
+               },
+               {
+               "rotation": 0,
+               "speed": [-0.1, -0.3],
+               
+               "segments": [
+                            {
+                            "color": 2,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 13,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.05
+                            }
+                            ]
+               },
+               {
+               "rotation": 0,
+               "speed": 0.35,
+               
+               "segments": [
+                            {
+                            "color": 6,
+                            "size": 0.083,
+                            "rotation": 0.083
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.083,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.083,
+                            "rotation": 0.413
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.083,
+                            "rotation": 0.583
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.083,
+                            "rotation": 0.75
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.083,
+                            "rotation": 0.916
+                            }
+                            ]
+               
+               },
+               {
+               "rotation": 0,
+               "speed": [0.1, 0.8],
+               
+               "segments": [
+                            {
+                            "color": 3,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.35
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.05
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 0.5,
+    "bullets": [
+                5, 3, 2, 12, 3, 0, 6, 8, 2, 7, 0, 10, 13, 0, 3, 6, 5, 2, 1, 8, 2, 5, 3, 0, 7
+                ]
+}

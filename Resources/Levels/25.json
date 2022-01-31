@@ -1,0 +1,68 @@
+{
+    "radius": 65,
+    
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": [0.5, 0.7],
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.3
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.4,
+               "speed": {
+               "values": [-0.4, -0.8],
+               "durations": [5, 2]
+               },
+               
+               "segments": [
+                            {
+                            "color": 4,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 11,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.35
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                9, 9, 14, 1, 0, 5, 1, 8, 4, 11
+                ]
+}

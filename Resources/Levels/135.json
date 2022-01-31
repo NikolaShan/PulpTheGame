@@ -1,0 +1,64 @@
+{
+    "radius": 60,
+    
+    "orbits": [
+               {
+               "rotation": 0.0,
+               "speed": 0.8,
+               "width": 8,
+               
+               "segments": [
+                            {
+                            "color": 9,
+                            "size": 1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.0,
+               "speed": 0.8,
+               "width": 8,
+               
+               "segments": [
+                            {
+                            "color": 11,
+                            "size": 1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.0,
+               "speed": 0.8,
+               "width": 8,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.0,
+               "speed": 0.6,
+               
+               "segments": [
+                            {
+                            "color": 4,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 2
+                            }
+                            ]
+               }
+               ],
+    
+    "gravity": 10,
+    "bullets_speed": [0.2, 1.5],
+    "bullets": [ 0, 4, 11, 7, 9, 2 ]
+}

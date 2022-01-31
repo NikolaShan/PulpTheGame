@@ -1,0 +1,46 @@
+{
+    "radius": 85,
+    
+    "orbits": [
+               {
+               "rotation": 0.4,
+               "speed": 0.7,
+               
+               "segments": [
+                            {
+                            "color": 4,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.1
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                4, 3, 5, 1, 9, 10, 6
+                ]
+}

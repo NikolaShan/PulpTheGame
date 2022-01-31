@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Game</key>
+	<dict>
+		<key>StartLevelHint</key>
+		<string>КОСНИТЕСЬ, ЧТОБЫ ВЫСТРЕЛИТЬ</string>
+		<key>TimeoutFormat</key>
+		<string>{:.0f}сек.</string>
+		<key>RingsControlHint</key>
+		<string>КОСНИТЕСЬ / УДЕРЖИВАЙТЕ ДЛЯ УПРАВЛЕНИЯ КОЛЕСОМ</string>
+	</dict>
+	<key>ExitConfirmationDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Выйти?</string>
+		<key>Message</key>
+		<string>Действительно выйти?</string>
+		<key>ButtonExitGame</key>
+		<string>ДА</string>
+		<key>ButtonResumeGame</key>
+		<string>НЕТ</string>
+	</dict>
+	<key>PauseDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>ПАУЗА</string>
+		<key>MenuButton</key>
+		<string>Меню</string>
+		<key>ResumeButton</key>
+		<string>Возобновить</string>
+	</dict>
+	<key>AppTurbo</key>
+	<dict>
+		<key>Message</key>
+		<string>Спасибо AppTurbo!</string>
+		<key>Title</key>
+		<string>Реклама отключена</string>
+		<key>Button</key>
+		<string>ОК</string>
+	</dict>
+	<key>Menu</key>
+	<dict>
+		<key>YourScore</key>
+		<string>ВАШ
+СЧЕТ</string>
+		<key>BestScore</key>
+		<string>Рекорд: {}</string>
+		<key>Endless</key>
+		<string>БЕСКОНЕЧНО</string>
+		<key>Levels</key>
+		<string>УРОВНИ</string>
+		<key>Skip</key>
+		<string>ПРОПУСК</string>
+		<key>LevelNumber</key>
+		<string>УРОВЕНЬ {}</string>
+		<key>Retry</key>
+		<string>ПОВТОРИТЬ</string>
+		<key>Share</key>
+		<string>ПОДЕЛИТЬСЯ</string>
+		<key>Next</key>
+		<string>ДАЛЕЕ</string>
+		<key>LevelFailed</key>
+		<string>УРОВЕНЬ
+НЕ ПРОЙДЕН</string>
+		<key>LevelSuccess</key>
+		<string>УРОВЕНЬ
+ПРОЙДЕН</string>
+		<key>Rate</key>
+		<string>ОЦЕНИТЬ</string>
+		<key>GameCompleted</key>
+		<string>ИГРА
+ПРОЙДЕНА</string>
+	</dict>
+	<key>SettingsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Настройки</string>
+		<key>ColorblindOption</key>
+		<string>Бесцветный режим</string>
+		<key>MusicOption</key>
+		<string>Музыка</string>
+		<key>OkayButton</key>
+		<string>ОК</string>
+		<key>SoundsOption</key>
+		<string>Звуки</string>
+		<key>NightModeOption</key>
+		<string>Ночной режим</string>
+	</dict>
+	<key>Share</key>
+	<dict>
+		<key>DirectMessageScore</key>
+		<string>Ого! У меня {} очков в бесконечном режиме #Dulp! Вам меня не обойти! @NexxStudio</string>
+		<key>SimpleShareMessage</key>
+		<string>OMG! Я на уровне {} в #Dulp! А вы сможете? @NexxStudio</string>
+		<key>DirectTitle</key>
+		<string>Dulp</string>
+		<key>DirectMessage</key>
+		<string>OMG! Я на уровне {} в #Dulp! А вы сможете? @NexxStudio</string>
+	</dict>
+	<key>Hints</key>
+	<dict>
+		<key>FollowingColors</key>
+		<string>Смотрите за следующими цветами!</string>
+		<key>SectionsCanFade</key>
+		<string>Секции могут исчезать!</string>
+		<key>FlySpeedChange</key>
+		<string>Скорость шара может меняться!</string>
+		<key>TimeCanExpire</key>
+		<string>Таймер обратного отсчета!</string>
+		<key>BeAttentive</key>
+		<string>Сосредоточьтесь!</string>
+		<key>Dulp</key>
+		<string>Dulp!</string>
+		<key>SnipeThemOut</key>
+		<string>Время Снайпера!</string>
+		<key>DirectionChange</key>
+		<string>Направление может меняться!</string>
+		<key>RadiusChange</key>
+		<string>Размер колеса может меняться!</string>
+		<key>DoubleOrbit</key>
+		<string>Два колеса!</string>
+		<key>TripleOrbit</key>
+		<string>Три колеса!</string>
+		<key>FourthOrbit</key>
+		<string>Четыре колеса!</string>
+		<key>SpeedChange</key>
+		<string>Скорость может меняться!</string>
+		<key>SpeedChangeByTap</key>
+		<string>Скорость можно менять касанием!</string>
+		<key>DifferentBulletsSpeed</key>
+		<string>Скорость шара можно изменять!</string>
+		<key>HoldIncLiftDec</key>
+		<string>Коснитесь / удерживайте для управления колесом</string>
+		<key>WaitForTheRightMoment</key>
+		<string>Дождитесь подходящего момента!</string>
+	</dict>
+	<key>LocalNotification</key>
+	<dict>
+		<key>Message</key>
+		<string>Застряли на уровне? Проведите пальцем, чтобы пропустить его!</string>
+		<key>Action</key>
+		<string>Играть</string>
+		<key>OpenMessage</key>
+		<string>Уровень {} пропущен!</string>
+	</dict>
+	<key>CrossPromoDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Игра от PlanemoStd</string>
+		<key>ButtonTitle</key>
+		<string>Играть</string>
+	</dict>
+	<key>RateDialog</key>
+	<dict>
+		<key>ButtonTitle</key>
+		<string>Оценить Dulp</string>
+		<key>Title</key>
+		<string>Оценить Игру</string>
+		<key>Message</key>
+		<string>Понравилась игра Dulp? Оставьте нам отзыв в App Store! Благодаря вашей поддержке мы сможем выпускать больше бесплатных обновлений.</string>
+		<key>RemindLater</key>
+		<string>Напомнить позже</string>
+		<key>Decline</key>
+		<string>Нет, спасибо</string>
+	</dict>
+	<key>Levels</key>
+	<dict>
+		<key>Title</key>
+		<string>УРОВНИ</string>
+		<key>OutOf</key>
+		<string>{} из {}</string>
+	</dict>
+	<key>RemoveAdsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Убрать рекламу?</string>
+		<key>Message</key>
+		<string>Убрать из игры всю рекламу, улучшить восприятие, больше веселья!</string>
+		<key>Buy</key>
+		<string>Убрать рекламу за {}</string>
+		<key>Restore</key>
+		<string>Восстановить</string>
+		<key>Cancel</key>
+		<string>Отмена</string>
+	</dict>
+	<key>IA</key>
+	<dict>
+		<key>Loading</key>
+		<string>Загрузка...</string>
+		<key>Error</key>
+		<string>Не удалось выполнить операцию, повторите попытку позже.</string>
+		<key>PurchaseSucceed</key>
+		<string>Успешно совершена покупка {}.</string>
+		<key>RestoreSucceed</key>
+		<string>Покупка успешно восстановлена.</string>
+		<key>NothingToRestore</key>
+		<string>Восстанавливать нечего</string>
+		<key>Restoring</key>
+		<string>Восстановление...</string>
+	</dict>
+	<key>SkipLevelDialog</key>
+	<dict>
+		<key>Cancel</key>
+		<string>Отмена</string>
+		<key>Title</key>
+		<string>Пропустить Уровень?</string>
+		<key>MessageOptions</key>
+		<string>Выберите один из следующих вариантов, чтобы пропустить уровень.</string>
+		<key>MessageFreeSkips</key>
+		<string>Пропустить этот уровень?</string>
+		<key>Skip</key>
+		<string>Пропустить</string>
+		<key>BuySkips</key>
+		<string>{} пропуска ({})</string>
+		<key>MessageSkipAds</key>
+		<string>Уровень слишком сложный?
+Посмотрите рекламу, чтобы пропустить!</string>
+		<key>WatchAds</key>
+		<string>Реклама</string>
+		<key>TryOurGame</key>
+		<string>Установить игру</string>
+	</dict>
+	<key>SecondChanceDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Второй шанс?</string>
+		<key>AcceptButton</key>
+		<string>ДА</string>
+		<key>DeclineButton</key>
+		<string>НЕТ</string>
+	</dict>
+	<key>Error</key>
+	<string>Неизвестная ошибка. Что-то пошло не так</string>
+</dict>
+</plist>

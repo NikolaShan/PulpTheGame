@@ -1,0 +1,59 @@
+{
+    "radius": 60,
+    "hint": "SnipeThemOut",
+    
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": [-0.6, -0.8],
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                0, 0, 0, 0, 0, 14, 14, 14, 14, 14
+                ]
+}

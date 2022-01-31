@@ -1,0 +1,29 @@
+{
+    "hint": "DifferentBulletsSpeed",
+    "radius": 40,
+    
+    "orbits": [
+               {
+               "rotation": 0.0,
+               "speed": 0.8,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 1
+                            }
+                            ]
+               }
+               ],
+    
+    "gravity": 25,
+    "bullets_speed": [1.5, 0.3],
+    "bullets": [ 0, 5, 1 ]
+}

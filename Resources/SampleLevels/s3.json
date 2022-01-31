@@ -1,0 +1,37 @@
+{
+    "radius": 50,
+    
+    "orbits": [
+               {
+               "rotation": 0,
+               "speed": 0.4,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 4
+                            }
+                            ],
+               "fade": {
+                    "values": [1, 0],
+                    "durations": [0.25, 1.0]
+               }
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                0, 1, 2, 4
+                ]
+}

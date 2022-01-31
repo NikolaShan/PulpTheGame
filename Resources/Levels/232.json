@@ -1,0 +1,67 @@
+{
+    "radius": 45,
+    
+    "orbits": [
+               {
+               "rotation": 0.5,
+               "speed": [0.5, 0.9],
+               
+               "segments": [
+                            {
+                            "color": 9,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 11,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.45
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.8,
+               "speed": [-0.2, -0.7],
+               
+               "segments": [
+                            {
+                            "color": 5,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.5,
+               "speed": [0.2, 0.9],
+               "segments": [
+                            {
+                            "color": 5,
+                            "size": 0.3
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.6
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 0.09,
+    "bullets": [7, 5, 5, 14, 12, 7, 9, 6, 11
+                ],
+    "type": "rings"
+}

@@ -1,0 +1,65 @@
+{
+    "radius": 60,
+
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": {
+               "values": [-0.4, -0.8],
+               "durations": [4, 4]
+               },
+               
+               "segments": [
+                           {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            },                            
+                            {
+                            "color": 3,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.1
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                14, 14, 14, 14, 14, 14, 3, 3, 3, 3, 3
+                ]
+}

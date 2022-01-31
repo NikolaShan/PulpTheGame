@@ -1,0 +1,69 @@
+{
+    "radius": 55,
+    
+    "orbits": [
+               {
+               "rotation": 0.7,
+               "speed": [-0.2, -0.7],
+               
+               "segments": [
+                            {
+                            "color": 12,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.34
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.33
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.2,
+               "speed": [0.3, -0.9],
+               
+               "segments": [
+                            {
+                            "color": 8,
+                            "size": 0.34
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.33
+                            }
+                            ]
+               },
+               {
+               "rotation": 0,
+               "speed": [0.2, 0.8],
+               
+               "segments": [
+                            {
+                            "color": 2,
+                            "size": 0.34
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.33
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 0.21,
+    "bullets": [
+                12, 2, 9, 8, 2, 0, 12, 2, 9
+                ],
+    "type": "rings"           
+}

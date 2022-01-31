@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Game</key>
+	<dict>
+		<key>StartLevelHint</key>
+		<string>TOCA PARA DISPARAR</string>
+		<key>TimeoutFormat</key>
+		<string>{:.0f} s</string>
+		<key>RingsControlHint</key>
+		<string>TOCA/MANTÉN PULSADO PARA CONTROLAR EL ARO</string>
+	</dict>
+	<key>ExitConfirmationDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>¿Salir?</string>
+		<key>Message</key>
+		<string>¿Seguro que quieres salir?</string>
+		<key>ButtonExitGame</key>
+		<string>SÍ</string>
+		<key>ButtonResumeGame</key>
+		<string>NO</string>
+	</dict>
+	<key>PauseDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>PAUSA</string>
+		<key>MenuButton</key>
+		<string>Menú</string>
+		<key>ResumeButton</key>
+		<string>Reanudar</string>
+	</dict>
+	<key>AppTurbo</key>
+	<dict>
+		<key>Message</key>
+		<string>¡Gracias a AppTurbo!</string>
+		<key>Title</key>
+		<string>Anuncios inhabilitados</string>
+		<key>Button</key>
+		<string>Vale</string>
+	</dict>
+	<key>Menu</key>
+	<dict>
+		<key>YourScore</key>
+		<string>TU
+PUNTUACIÓN</string>
+		<key>BestScore</key>
+		<string>Mejor puntuación: {}</string>
+		<key>Endless</key>
+		<string>INFINITO</string>
+		<key>Levels</key>
+		<string>NIVELES</string>
+		<key>Skip</key>
+		<string>OMITIR</string>
+		<key>LevelNumber</key>
+		<string>NIVEL {}</string>
+		<key>Retry</key>
+		<string>REINTENTAR</string>
+		<key>Share</key>
+		<string>COMPARTIR</string>
+		<key>Next</key>
+		<string>SIGUIENTE</string>
+		<key>LevelFailed</key>
+		<string>NIVEL NO
+SUPERADO</string>
+		<key>LevelSuccess</key>
+		<string>NIVEL
+SUPERADO</string>
+		<key>Rate</key>
+		<string>PUNTUAR</string>
+		<key>GameCompleted</key>
+		<string>JUEGO
+COMPLETADO</string>
+	</dict>
+	<key>SettingsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>Ajustes</string>
+		<key>ColorblindOption</key>
+		<string>Modo Daltónico</string>
+		<key>MusicOption</key>
+		<string>Música</string>
+		<key>OkayButton</key>
+		<string>Vale</string>
+		<key>SoundsOption</key>
+		<string>Sonidos</string>
+		<key>NightModeOption</key>
+		<string>Modo Noche</string>
+	</dict>
+	<key>Share</key>
+	<dict>
+		<key>DirectMessageScore</key>
+		<string>¡Toma ya! ¡He conseguido {} puntos en el modo Infinito de #Dulp! ¡A ver quién me supera!</string>
+		<key>SimpleShareMessage</key>
+		<string>¡Toma ya! ¡He llegado al nivel {} en #Dulp! ¿Serás tú capaz? @NexxStudio</string>
+		<key>DirectTitle</key>
+		<string>Dulp</string>
+		<key>DirectMessage</key>
+		<string>¡Toma ya! ¡He llegado al nivel {} en #Dulp! ¿Serás tú capaz? @NexxStudio</string>
+	</dict>
+	<key>Hints</key>
+	<dict>
+		<key>FollowingColors</key>
+		<string>¡Anticípate a las siguientes bolas de colores!</string>
+		<key>SectionsCanFade</key>
+		<string>Las secciones pueden esfumarse</string>
+		<key>FlySpeedChange</key>
+		<string>¡La velocidad puede variar!</string>
+		<key>TimeCanExpire</key>
+		<string>¡Se agota la cuenta atrás!</string>
+		<key>BeAttentive</key>
+		<string>¡Concéntrate!</string>
+		<key>Dulp</key>
+		<string>Dulp!</string>
+		<key>SnipeThemOut</key>
+		<string>¡Calcula bien!</string>
+		<key>DirectionChange</key>
+		<string>Direction can change!</string>
+		<key>RadiusChange</key>
+		<string>El tamaño del aro puede variar</string>
+		<key>DoubleOrbit</key>
+		<string>¡Dos aros!</string>
+		<key>TripleOrbit</key>
+		<string>¡Tres aros!</string>
+		<key>FourthOrbit</key>
+		<string>¡Cuatro aros!</string>
+		<key>SpeedChange</key>
+		<string>La rapidez del aro puede variar</string>
+		<key>SpeedChangeByTap</key>
+		<string>¡La velocidad cambia al tocar!</string>
+		<key>DifferentBulletsSpeed</key>
+		<string>El ritmo de bola varía al tocar</string>
+		<key>HoldIncLiftDec</key>
+		<string>Toca/mantén pulsado para controlar el aro</string>
+		<key>WaitForTheRightMoment</key>
+		<string>¡Espera al momento justo!</string>
+	</dict>
+	<key>LocalNotification</key>
+	<dict>
+		<key>Message</key>
+		<string>¿Atascado en un nivel? ¡Desliza para omitirlo!</string>
+		<key>Action</key>
+		<string>Jugar</string>
+		<key>OpenMessage</key>
+		<string>¡Se ha saltado el nivel {}!</string>
+	</dict>
+	<key>CrossPromoDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>New game by PlanemoStd</string>
+		<key>ButtonTitle</key>
+		<string>Play Now</string>
+	</dict>
+	<key>RateDialog</key>
+	<dict>
+		<key>ButtonTitle</key>
+		<string>Calificar Dulp</string>
+		<key>Title</key>
+		<string>Puntúanos</string>
+		<key>Message</key>
+		<string>Si te gusta jugar a Dulp, déjanos tu evaluación en la App Store. ¡Con tu apoyo podremos presentar más actualizaciones gratuitas!</string>
+		<key>RemindLater</key>
+		<string>Recuérdame más tarde</string>
+		<key>Decline</key>
+		<string>No, gracias</string>
+	</dict>
+	<key>Levels</key>
+	<dict>
+		<key>Title</key>
+		<string>NIVELES</string>
+		<key>OutOf</key>
+		<string>{} de {}</string>
+	</dict>
+	<key>RemoveAdsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>¿Quitar anuncios?</string>
+		<key>Message</key>
+		<string>¡Elimina todos los anuncios del juego, mejora el rendimiento y diviértete más!</string>
+		<key>Buy</key>
+		<string>Quitar anuncios por {}</string>
+		<key>Restore</key>
+		<string>Restaurar</string>
+		<key>Cancel</key>
+		<string>Cancelar</string>
+	</dict>
+	<key>IA</key>
+	<dict>
+		<key>Loading</key>
+		<string>Cargando...</string>
+		<key>Error</key>
+		<string>No se pudo procesar la operación. Prueba más tarde.</string>
+		<key>PurchaseSucceed</key>
+		<string>{} adquirido correctamente.</string>
+		<key>RestoreSucceed</key>
+		<string>Restauración correcta.</string>
+		<key>NothingToRestore</key>
+		<string>No hay nada que restaurar</string>
+		<key>Restoring</key>
+		<string>Restaurando...</string>
+	</dict>
+	<key>SkipLevelDialog</key>
+	<dict>
+		<key>Cancel</key>
+		<string>Cancelar</string>
+		<key>Title</key>
+		<string>¿Omitir nivel?</string>
+		<key>MessageOptions</key>
+		<string>Elige una de las siguientes opciones para omitir el nivel.</string>
+		<key>MessageFreeSkips</key>
+		<string>¿Quieres omitir este nivel?</string>
+		<key>Skip</key>
+		<string>Omitir</string>
+		<key>BuySkips</key>
+		<string>Omitir {} veces por {}</string>
+		<key>MessageSkipAds</key>
+		<string>¿Demasiado difícil?
+¡Mira anuncios para omitir el nivel!</string>
+		<key>WatchAds</key>
+		<string>Ver anuncios</string>
+		<key>TryOurGame</key>
+		<string>Try our game</string>
+	</dict>
+	<key>SecondChanceDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>¿Segunda oportunidad?</string>
+		<key>AcceptButton</key>
+		<string>SÍ</string>
+		<key>DeclineButton</key>
+		<string>NO</string>
+	</dict>
+	<key>Error</key>
+	<string>Error desconocido. Vuelve a intentarlo más tarde.</string>
+</dict>
+</plist>

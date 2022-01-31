@@ -1,0 +1,46 @@
+{
+    "radius": 65,
+    
+    "orbits": [
+               {
+               "rotation": 0.25,
+               "speed": [-0.4, -0.1],
+               
+               "segments": [
+                            {
+                            "color": 6,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.25
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.5,
+               "speed": [0.5, 0.1],
+               
+               "segments": [
+                            {
+                            "color": 4,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.33
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.33
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": [0.2, 0.2, 0.2, 0.2, 0.2],
+    "bullets": [
+                6, 1, 6, 4, 1
+                ],
+    "type": "rings"
+}

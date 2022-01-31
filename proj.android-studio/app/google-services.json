@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896224725731",
+    "firebase_url": "https://dulp-eeb1a.firebaseio.com",
+    "project_id": "dulp-eeb1a",
+    "storage_bucket": "dulp-eeb1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896224725731:android:0358bf98987fe651",
+        "android_client_info": {
+          "package_name": "com.nexxstudio.dulp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896224725731-ck7f2o57ejk0ksk1vpi5oj4jui9rg74j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL0SopcfW97paSkO4zaPTgmQmdYFLT_wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

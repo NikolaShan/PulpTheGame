@@ -1,0 +1,6 @@
+[submodule "External/CCLibs"]
+	path = External/CCLibs
+	url = git@bitbucket.org:Planemo/cclibs.git
+[submodule "External/Chipmunk2D"]
+	path = External/Chipmunk2D
+	url = git@github.com:slembcke/Chipmunk2D.git

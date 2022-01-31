@@ -1,0 +1,57 @@
+{
+    "radius": 55,
+    "hint": "TimeCanExpire",
+
+    "orbits": [
+               {
+               "rotation": 0,
+               "speed": [0.5, 0.7],
+               
+               "segments": [
+                           {
+                            "color": 7,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 13,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 12,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.1
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                10, 1, 12, 2, 9, 9, 6, 13, 7
+                ],
+    "timeout": 18
+
+}

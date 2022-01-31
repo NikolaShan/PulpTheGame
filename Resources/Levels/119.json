@@ -1,0 +1,83 @@
+{
+    "radius": 75,
+    
+    "orbits": [
+               {
+               "width": 15,
+               "rotation": 0.0,
+               "speed": 0.6,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.0625
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.0625
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1.5,
+    "bullets": [
+                0, 9, 0, 9, 9, 0, 0, 9, 0, 9, 0, 9, 0, 9, 0, 9
+                ]
+}

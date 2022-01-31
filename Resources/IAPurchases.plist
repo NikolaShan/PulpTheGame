@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>no_ads</string>
+		<key>Type</key>
+		<string>NonConsumable</string>
+		<key>Rewards</key>
+		<dict>
+			<key>disable_ads</key>
+			<true/>
+		</dict>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>level_skip</string>
+		<key>Type</key>
+		<string>Consumable</string>
+		<key>Rewards</key>
+		<dict>
+			<key>skips</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>level_skip3</string>
+		<key>Type</key>
+		<string>Consumable</string>
+		<key>Rewards</key>
+		<dict>
+			<key>skips</key>
+			<integer>15</integer>
+		</dict>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,120 @@
+{
+    "radius": 66,
+    "hint": "FollowingColors",
+    
+    "orbits": [
+               {
+               "rotation": -0.1,
+               "speed": 0.44,
+               "width": 5,
+               "segments": [
+                            {
+                            "color": 1,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.2,
+                            "rotation": 0.33
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.2,
+                            "rotation": 0.66
+                            }
+                            ]
+            },
+            {
+               "rotation": -0.1,
+               "speed": 0.44,
+               "width": 5,
+               "segments": [
+                            {
+                            "color": 1,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.2,
+                            "rotation": 0.33
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.2,
+                            "rotation": 0.66
+                            }
+                            ]
+               },
+               {
+               "rotation": -0.1,
+               "speed": 0.44,
+               "width": 5,
+               
+               "segments": [
+                            {
+                            "color": 10,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.2,
+                            "rotation": 0.33
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.2,
+                            "rotation": 0.66
+                            }
+                            ]
+               },
+               {
+               "rotation": -0.1,
+               "speed": 0.44,
+               "width": 5,
+               
+               "segments": [
+                            {
+                            "color": 10,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.2,
+                            "rotation": 0.33
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.2,
+                            "rotation": 0.66
+                            }
+                            ]
+               },
+               {
+               "rotation": -0.1,
+               "speed": 0.44,
+               "width": 5,
+               
+               "segments": [
+                            {
+                            "color": 1,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.2,
+                            "rotation": 0.33
+                            },
+                            {
+                            "color": 10,
+                            "size": 0.2,
+                            "rotation": 0.66
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1.25,
+    "bullets": [
+                1, 1, 1, 10, 1, 10, 10, 10, 1, 10, 1, 1, 10, 1, 10
+                ]
+}

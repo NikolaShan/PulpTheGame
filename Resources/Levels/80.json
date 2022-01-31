@@ -1,0 +1,93 @@
+{
+    "radius": 70,
+
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": {
+               "values": [-0.5, 0.5],
+               "durations": [3, 3]
+               },
+               
+               "segments": [
+                           {
+                            "color": 12,
+                            "size": 0.2
+                            },                            
+                            {
+                            "color": 14,
+                            "size": 0.2
+                            },                                                        
+                            {
+                            "color": 12,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.2
+                            },
+                            {
+                            "color": 11,
+                            "size": 0.2
+                            }
+                            ]
+               },
+               {
+               "rotation": 0,
+               "speed": {
+               "values": [0.4, -0.7],
+               "durations": [4, 4]
+               },
+               
+               "segments": [
+                            {
+                            "color": 11,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 2,
+                            "size": 0.25
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.4,
+               "speed": {
+               "values": [-0.4, 0.4],
+               "durations": [2, 2]
+               },
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.25
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.25
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                0, 4, 9, 11, 1, 8, 2, 7, 12, 14, 12, 3, 11 
+                ]
+}

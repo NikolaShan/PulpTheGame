@@ -1,0 +1,4 @@
+include ':libcocos2dx', ':vksdk_library', ':unity-ads'
+project(':libcocos2dx').projectDir = new File(settingsDir, '../cocos2d/cocos/platform/android/libcocos2dx')
+include ':Pulp'
+project(':Pulp').projectDir = new File(settingsDir, 'app')

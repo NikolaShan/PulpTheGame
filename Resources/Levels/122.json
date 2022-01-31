@@ -1,0 +1,68 @@
+{
+    "radius": 50,
+    
+    "orbits": [
+               {
+               "width": 18,
+               "rotation": 0.27,
+               "speed": 0.8,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.166
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.166
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.166
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.166
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.166
+                            },
+                            {
+                            "color": 13
+                            }
+                            ]
+               },
+               {
+               "rotation": -0.325,
+               "speed": {
+                    "values": [1.5, 0],
+                    "turns": [0.166, 0.2]
+               },
+               
+               "segments": [
+                            {
+                            "color": 4,
+                            "size": 0.15,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.15,
+                            "rotation": 0.333
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.15,
+                            "rotation": 0.666
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1.3,
+    "bullets": [
+               4, 4, 0, 3, 4, 7, 1, 13, 8
+                ],
+    "timeout": 8.5
+}

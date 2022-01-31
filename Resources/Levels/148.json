@@ -1,0 +1,28 @@
+{
+    "radius": 50,
+    "hint": "HoldIncLiftDec",
+
+    "orbits": [
+               {
+               "rotation": 0,
+               "speed": [0.4, 0.6],
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.5
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.5
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 0.1,
+    "bullets": [
+                0, 5
+                ],
+    "type": "rings"
+}

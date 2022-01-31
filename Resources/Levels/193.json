@@ -1,0 +1,69 @@
+{
+    "radius": 50,
+    
+    "orbits": [
+               {
+               "rotation": 0.175,
+               "speed": {
+               "values": [0, -1.6],
+               "turns": [0.3125, 0.125]
+               },
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.15,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.15,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.15,
+                            "rotation": 0.5
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.15,
+                            "rotation": 0.75
+                            }
+                            ]
+               },
+               {
+               "rotation": -0.075,
+               "speed": {
+               "values": [1.6, 0],
+               "turns": [0.125, 0.3125]
+               },
+               
+               "segments": [
+                            {
+                            "color": 5,
+                            "size": 0.15,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.15,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.15,
+                            "rotation": 0.5
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.15,
+                            "rotation": 0.75
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1.25,
+    "bullets": [ 0, 0, 0, 5, 5, 0, 5, 5 ]
+}

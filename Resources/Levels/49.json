@@ -1,0 +1,70 @@
+{
+    "radius": 70,
+    
+    "orbits": [
+               {
+               "rotation": 0.2,
+               "speed": 0.8,
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.05
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 0,
+                            "size": 0.1
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.1
+                            }
+                            ]
+               }
+               ],
+    
+    "bullets_speed": 1,
+    "bullets": [
+                6, 0, 6, 0, 6, 0, 6, 0, 6, 0, 6, 0, 0
+                ]
+}

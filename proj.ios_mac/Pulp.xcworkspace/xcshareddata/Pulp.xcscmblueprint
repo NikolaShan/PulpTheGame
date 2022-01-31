@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C4D6F364E1E1D85196C23B8C94CC79C20C2DC381",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "999D2B244F4BEADDDD09CD5EE2574031B24F399A" : 0,
+    "C4D6F364E1E1D85196C23B8C94CC79C20C2DC381" : 0,
+    "74497F99D0AB135DD72A96471D7605B3F214415F" : 0,
+    "D1E4E5D9C1DEE1443418F5EF76B4592B909B2614" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "60BE07B1-5CB7-49AB-A6FB-DBC71B52326E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "999D2B244F4BEADDDD09CD5EE2574031B24F399A" : "Pulp\/External\/Chipmunk2D\/",
+    "C4D6F364E1E1D85196C23B8C94CC79C20C2DC381" : "Pulp\/",
+    "74497F99D0AB135DD72A96471D7605B3F214415F" : "Pulp\/External\/CCLibs\/",
+    "D1E4E5D9C1DEE1443418F5EF76B4592B909B2614" : "Pulp\/External\/CCLibs\/UnityAds\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pulp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "proj.ios_mac\/Pulp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:Planemo\/cclibs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74497F99D0AB135DD72A96471D7605B3F214415F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:slembcke\/Chipmunk2D.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "999D2B244F4BEADDDD09CD5EE2574031B24F399A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:Planemo\/pulp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4D6F364E1E1D85196C23B8C94CC79C20C2DC381"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Applifier\/unity-ads-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1E4E5D9C1DEE1443418F5EF76B4592B909B2614"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+    "radius": 50,
+    
+    "orbits": [
+               {
+               "rotation": 0,
+               "speed": [-0.3, -0.9],
+               
+               "segments": [
+                            {
+                            "color": 0,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 3,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 7,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 1,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 8,
+                            "size": 0.20
+                            },
+                            {
+                            "color": 14,
+                            "size": 0.20
+                            }
+                            ],
+               "fade": {
+               "values": [1, 0],
+               "durations": [0.5, 0.5]
+               }
+               }
+               ],
+    
+    "bullets_speed": 0.75,
+    "bullets": [
+                0, 7, 3, 14, 8, 1
+                ],
+    "gravity": 5
+}

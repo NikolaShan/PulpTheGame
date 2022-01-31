@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Game</key>
+	<dict>
+		<key>StartLevelHint</key>
+		<string>탭해서 발사</string>
+		<key>TimeoutFormat</key>
+		<string>{:.0f}초.</string>
+		<key>RingsControlHint</key>
+		<string>탭 / 길게 탭해서 휠을 컨트롤하세요</string>
+	</dict>
+	<key>ExitConfirmationDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>종료하시겠습니까?</string>
+		<key>Message</key>
+		<string>정말로 종료하시겠습니까?</string>
+		<key>ButtonExitGame</key>
+		<string>예</string>
+		<key>ButtonResumeGame</key>
+		<string>아니요</string>
+	</dict>
+	<key>PauseDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>일시 중지</string>
+		<key>MenuButton</key>
+		<string>메뉴</string>
+		<key>ResumeButton</key>
+		<string>계속</string>
+	</dict>
+	<key>AppTurbo</key>
+	<dict>
+		<key>Message</key>
+		<string>AppTurbo에 감사합니다!</string>
+		<key>Title</key>
+		<string>광고가 비활성화됨</string>
+		<key>Button</key>
+		<string>확인</string>
+	</dict>
+	<key>Menu</key>
+	<dict>
+		<key>YourScore</key>
+		<string>내
+점수</string>
+		<key>BestScore</key>
+		<string>최고 점수: {}</string>
+		<key>Endless</key>
+		<string>무한</string>
+		<key>Levels</key>
+		<string>레벨</string>
+		<key>Skip</key>
+		<string>건너뛰기</string>
+		<key>LevelNumber</key>
+		<string>레벨 {}</string>
+		<key>Retry</key>
+		<string>다시 시도</string>
+		<key>Share</key>
+		<string>공유</string>
+		<key>Next</key>
+		<string>다음</string>
+		<key>LevelFailed</key>
+		<string>레벨
+실패</string>
+		<key>LevelSuccess</key>
+		<string>레벨
+성공</string>
+		<key>Rate</key>
+		<string>평가</string>
+		<key>GameCompleted</key>
+		<string>게임
+완료</string>
+	</dict>
+	<key>SettingsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>설정</string>
+		<key>ColorblindOption</key>
+		<string>색맹 모드</string>
+		<key>MusicOption</key>
+		<string>음악</string>
+		<key>OkayButton</key>
+		<string>확인</string>
+		<key>SoundsOption</key>
+		<string>사운드</string>
+		<key>NightModeOption</key>
+		<string>야간 모드</string>
+	</dict>
+	<key>Share</key>
+	<dict>
+		<key>DirectMessageScore</key>
+		<string>만세! #Dulp 무한 모드에서 {}점을 획득했어요! 이 기록은 절대로 못 깰걸요! @NexxStudio</string>
+		<key>SimpleShareMessage</key>
+		<string>만세! 방금 #Dulp에서 레벨 {}까지 갔어요! 당신도 한 번 도전해보시겠어요? @NexxStudio</string>
+		<key>DirectTitle</key>
+		<string>Dulp</string>
+		<key>DirectMessage</key>
+		<string>만세! 방금 #Dulp에서 레벨 {}까지 갔어요! 당신도 한 번 도전해보시겠어요? @NexxStudio</string>
+	</dict>
+	<key>Hints</key>
+	<dict>
+		<key>FollowingColors</key>
+		<string>다음에 나올 컬러 공들에 대한 계획을 미리 짜 두세요!</string>
+		<key>SectionsCanFade</key>
+		<string>부분은 희미해질 수 있어요!</string>
+		<key>FlySpeedChange</key>
+		<string>공의 속도가 변할 수 있어요!</string>
+		<key>TimeCanExpire</key>
+		<string>카운트다운 타이머!</string>
+		<key>BeAttentive</key>
+		<string>집중하세요!</string>
+		<key>Dulp</key>
+		<string>Dulp!</string>
+		<key>SnipeThemOut</key>
+		<string>저격하세요!</string>
+		<key>DirectionChange</key>
+		<string>Direction can change!</string>
+		<key>RadiusChange</key>
+		<string>고리의 크기가 변할 수 있어요!</string>
+		<key>DoubleOrbit</key>
+		<string>이중 고리!</string>
+		<key>TripleOrbit</key>
+		<string>삼중 고리!</string>
+		<key>FourthOrbit</key>
+		<string>사중 고리!</string>
+		<key>SpeedChange</key>
+		<string>속도가 변할 수 있어요!</string>
+		<key>SpeedChangeByTap</key>
+		<string>탭할 때 속도가 변할 수 있어요!</string>
+		<key>DifferentBulletsSpeed</key>
+		<string>탭할 때 공의 속도가 변할 수 있어요!</string>
+		<key>HoldIncLiftDec</key>
+		<string>탭 / 길게 탭해서 휠을 컨트롤하세요</string>
+		<key>WaitForTheRightMoment</key>
+		<string>적절한 타이밍을 기다리세요!</string>
+	</dict>
+	<key>LocalNotification</key>
+	<dict>
+		<key>Message</key>
+		<string>레벨을 깨기 어려우세요? 스와이프해서 건너뛰세요!</string>
+		<key>Action</key>
+		<string>플레이</string>
+		<key>OpenMessage</key>
+		<string>레벨 {} 건너뜀!</string>
+	</dict>
+	<key>CrossPromoDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>New game by PlanemoStd</string>
+		<key>ButtonTitle</key>
+		<string>Play Now</string>
+	</dict>
+	<key>RateDialog</key>
+	<dict>
+		<key>ButtonTitle</key>
+		<string>Dulp 평가하기</string>
+		<key>Title</key>
+		<string>평가하기</string>
+		<key>Message</key>
+		<string>Dulp가 마음에 드시면 App Store에 리뷰를 남겨주세요. 성원을 통해 더 많은 무료 업데이트를 제공할 수 있습니다!</string>
+		<key>RemindLater</key>
+		<string>나중에 다시 알림</string>
+		<key>Decline</key>
+		<string>아니요</string>
+	</dict>
+	<key>Levels</key>
+	<dict>
+		<key>Title</key>
+		<string>레벨</string>
+		<key>OutOf</key>
+		<string>{} / {}</string>
+	</dict>
+	<key>RemoveAdsDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>광고 및 팝업을 제거할까요?</string>
+		<key>Message</key>
+		<string>게임에서 광고 및 팝업을 제거하고, 성능을 개선해서 더 재미있게 즐기세요!</string>
+		<key>Buy</key>
+		<string>{}에 광고 제거</string>
+		<key>Restore</key>
+		<string>복원</string>
+		<key>Cancel</key>
+		<string>취소</string>
+	</dict>
+	<key>IA</key>
+	<dict>
+		<key>Loading</key>
+		<string>로드 중...</string>
+		<key>Error</key>
+		<string>거래를 처리할 수 없습니다. 나중에 다시 시도해주세요.</string>
+		<key>PurchaseSucceed</key>
+		<string>{} 구매 성공.</string>
+		<key>RestoreSucceed</key>
+		<string>구매 상품 복원 성공.</string>
+		<key>NothingToRestore</key>
+		<string>복원할 상품이 없습니다</string>
+		<key>Restoring</key>
+		<string>복원 중...</string>
+	</dict>
+	<key>SkipLevelDialog</key>
+	<dict>
+		<key>Cancel</key>
+		<string>취소</string>
+		<key>Title</key>
+		<string>레벨을 건너뜁니까?</string>
+		<key>MessageOptions</key>
+		<string>레벨을 건너뛰려면 다음 옵션 중 하나를 선택하세요.</string>
+		<key>MessageFreeSkips</key>
+		<string>이 레벨을 건너뛰시겠습니까?</string>
+		<key>Skip</key>
+		<string>건너뛰기</string>
+		<key>BuySkips</key>
+		<string>건너뛰기 {}개, 가격: {}</string>
+		<key>MessageSkipAds</key>
+		<string>레벨이 너무 어려우세요?
+광고를 보시면 건너뛸 수 있어요!</string>
+		<key>WatchAds</key>
+		<string>광고 보기</string>
+		<key>TryOurGame</key>
+		<string>Try our game</string>
+	</dict>
+	<key>SecondChanceDialog</key>
+	<dict>
+		<key>Title</key>
+		<string>한 번 더?</string>
+		<key>AcceptButton</key>
+		<string>예</string>
+		<key>DeclineButton</key>
+		<string>아니오</string>
+	</dict>
+	<key>Error</key>
+	<string>알 수 없는 오류. 나중에 다시 시도해주세요.</string>
+</dict>
+</plist>

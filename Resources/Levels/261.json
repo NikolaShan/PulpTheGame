@@ -1,0 +1,65 @@
+{
+    "radius": 45,
+    
+    "orbits": [
+               {
+               "rotation": 0.0,
+               "speed": 0.3,
+               
+               "segments": [
+                            {
+                            "color": 7,
+                            "size": 0.3
+                            },
+                            {
+                            "color": 5,
+                            "size": 0.15
+                           },
+                            {
+                            "color": 13,
+                            "size": 0.15
+                            },
+                            {
+                            "color": 9,
+                            "size": 0.3
+                            },
+                            {
+                            "color": 6,
+                            "size": 0.1
+                            }
+                            ]
+               },
+               {
+               "rotation": 0.0,
+               "speed": 0.4,
+               
+               "segments": [
+                            {
+                            "color": 4,
+                            "size": 0.125,
+                            "rotation": 0
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.125,
+                            "rotation": 0.25
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.1325,
+                            "rotation": 0.5
+                            },
+                            {
+                            "color": 4,
+                            "size": 0.125,
+                            "rotation": 0.75
+                            }
+                            ]
+               }
+               ],
+    
+    "gravity": 10,
+    "bullets_speed": 0.8,
+    "bullets": [ 7, 5, 13, 9, 6, 4, 4, 4, 4
+                ]
+}
